@@ -1,1 +1,5 @@
 /docs*
+
+# Ignore all environment files
+.env
+.env.*
