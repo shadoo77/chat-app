@@ -3,3 +3,17 @@
 # Ignore all environment files
 .env
 .env.*
+
+# Node / monorepo
+node_modules/
+.turbo/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+
+# OS / editor
+.DS_Store
